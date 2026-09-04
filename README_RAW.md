@@ -105,7 +105,7 @@ For each category/subcategory projects are listed in order of quality/complexity
 
 [PS1 Styled TTC Station Walking Simulator](https://github.com/rackman404/PS1-Walking-Sim-TTC-Dundas-Public)
 - Languages: C#, HLSL
-- Current stable public build can be played here: (LINK)
+- Current stable public build can be played [here](https://rackman.itch.io/psxttcwalkingsim)
 	- Note that WebGL build that can be played in browser differs slightly from the windows build (forced to use fallback shaders, no letterboxing, and other compromises due to WebGL limits)
 - Tools/Engines: 
 	- Game Engine: Unity
@@ -256,11 +256,6 @@ Note that some coursework lab repos aren't public. Will probably make them publi
 [Personal Leetcode Solutions + Basic DSA theory](https://github.com/rackman404/Leetcode-Personal-Solution-Documentation-Repo)
 	- My approaches to some Leetcode questions I've done
 	- Some patterns and personal notes on DSA as well
-	
-[MIT OCW Intro To C++](https://github.com/rackman404/MIT-OCW-Cpp-Problem-Sets)
-	- My solutions and notes to some practice problem sets for C++
-
-
 ## Older Projects
 
 |                   Music Player                   |                Ask Wikipedia API                 |
