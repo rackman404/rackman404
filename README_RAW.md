@@ -1,5 +1,9 @@
+Raw file for obsidian editing
 
 
+<details>
+<summary>About Me</summary>
+</details>
 
 
 # About Me
@@ -13,10 +17,7 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
 | [![Itch.io](https://img.shields.io/badge/-Itch.io-blue?style=flat-square&logo=Itch.io&logoColor=white&link=https://rackman.itch.io/)](https://rackman.itch.io/) | [![Artstation Badge](https://img.shields.io/badge/-Artstation-blue?style=flat-square&logo=Artstation&logoColor=white&link=https://www.artstation.com/rackman)](https://www.artstation.com/rackman) | [![Leetcode Badge](https://img.shields.io/badge/-Leetcode-blue?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/u/rackman/)](https://leetcode.com/u/rackman/)<br> | [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacky-zhang404/)](https://www.linkedin.com/in/jacky-zhang404/) | Jacky.Zhang404@gmail.com |
 
-<details>
-<summary>Skills and Toolsets</summary>
-
-# Skills and Toolsets
+## Skills and Toolsets
 
 ### Languages
 
@@ -46,7 +47,6 @@ Desktop:
 
 | ![JUnit](https://img.shields.io/badge/-JUnit_(Java)-blue?style=flat-square&logo=junit5&logoColor=white) | ![NUnit](https://img.shields.io/badge/-NUnit_(C_Sharp)-blue?style=flat-square&logo=Nunit&logoColor=white)<br> | ![Unittest](https://img.shields.io/badge/-Unittest_(Python)-blue?style=flat-square&logo=unittest&logoColor=white)<br> | ![Github Actions](https://img.shields.io/badge/-Github_Actions-blue?style=flat-square&logo=githubactions&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker&logoColor=white) |
 | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-</details>
 
 # Project Highlights
 
@@ -54,7 +54,7 @@ For each category/subcategory projects are listed in order of quality/complexity
 
 <details>
 <summary>Personal Projects</summary>
-
+</details>
 
 ## Personal Projects
 
@@ -247,12 +247,9 @@ Note that some coursework lab repos aren't public. Will probably make them publi
 - Parses and displays telemetry data via graphs, 2D map, and text displays
 - Used during IREC 2024
 
-
-</details>
-
 <details>
 <summary>Docs and Older Projects</summary>
-
+</details>
 
 ## Docs
 
@@ -281,5 +278,3 @@ Note that some coursework lab repos aren't public. Will probably make them publi
 [FFmpeg-GUI (Pyside)](https://github.com/rackman404/FFmpeg-GUI)
 - Basic wrapper for FFmpeg, written with Python with Pyside as the GUI
 - User can select files and destinations from file explorer and perform file conversions using a FFmpeg side process 
-
-</details>
